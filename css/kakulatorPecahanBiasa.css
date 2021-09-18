@@ -1,0 +1,11 @@
+.garis{
+  width:50%;
+  margin:auto;
+  display:inline-block;
+  border-bottom:1px solid gray;
+  margin-bottom:1.2%;
+  margin-left:1%;
+}
+.form-control,hr{
+  width:50%;
+}
